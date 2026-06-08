@@ -1,17 +1,14 @@
-<!-- HEADER DINÁMICO ANIMADO -->
 <div align="center">
-  <img src="https://vercel.app—%20V2.0&fontSize=45&animation=twinkling&fontColor=ffffff" alt="TeamFix Header" />
+  <h1>🛠️ TeamFix — V2.0</h1>
+  <p><strong>Plataforma Educativa Inteligente y Organizada</strong></p>
   
-  <p align="center">
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-  </p>
+  <!-- Badges nativos de texto plano con formato de bloque de código -->
+  <code>Estado: No Soportado 🔴</code> &nbsp;&nbsp; <code>UI: Premium 💎</code> &nbsp;&nbsp; <code>Entorno: Modo Oscuro 🌙</code>
   
+  <br /><br />
   <p><strong>✨ Una experiencia educativa inmersiva, inteligente y organizada ✨</strong></p>
 </div>
 
-<!-- ALERTA GLITCH / NATIVA ESTILIZADA -->
 > [!CAUTION]
 > ### 🚨 ATENCIÓN: REPOSITORIO DEPRECADO
 > Esta infraestructura (**V2.0**) ha sido congelada. No se integrarán parches adicionales en esta rama de desarrollo. Por favor, migra a la compilación más reciente para evitar fallos de compatibilidad.
@@ -21,46 +18,53 @@
 ## 🏫 ¿Qué es TeamFix Classroom?
 
 <p align="justify">
-<strong>TeamFix Classroom</strong> redefine la gestión académica digital mediante un ecosistema modular de alta fidelidad visual. Inspirado en las mecánicas estructurales de <i>Google Classroom</i>, el entorno consolida los flujos de comunicación entre el cuerpo docente y el alumnado, garantizando una distribución de tareas libre de fricciones.
+<strong>TeamFix Classroom</strong> redefine la gestión académica digital mediante un de alta fidelidad visual. Inspirado en las mecánicas estructurales de <i>Google Classroom</i>, el entorno consolida los flujos de comunicación entre el cuerpo docente y el alumnado, garantizando una distribución de tareas libre de fricciones.
 </p>
 
 <br />
 
-<!-- TARJETAS INTERACTIVAS HTML -->
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="left">
-        <h3>🔑 Acceso Asíncrono</h3>
-        <p>Autenticación fluida mediante hashes personales parametrizados para <b>Alumnos</b>, <b>Profesores</b> y <b>Dirección</b>.</p>
-        <img src="https://shields.io" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="left">
-        <h3>📋 Módulos de Control</h3>
-        <p>Sincronización en tiempo real de tableros de actividades, anuncios institucionales y analíticas de asistencia grupal.</p>
-        <img src="https://shields.io" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="left">
-        <h3>⏳ Dashboard de Entregas</h3>
-        <p>Seguimiento predictivo de asignaciones críticas con temporizadores visuales, rúbricas integradas y tabuladores de puntaje.</p>
-        <img src="https://shields.io" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="left">
-        <h3>💬 Feed de Actividad</h3>
-        <p>Muro algorítmico que prioriza notificaciones urgentes, alertas de entrega inmediata y notas de retroalimentación.</p>
-        <img src="https://shields.io" />
-      </div>
-    </td>
-  </tr>
-</table>
+### 💡 Despliega las Características Interactivas
+*Haz clic en cada sección para ver los detalles:*
+
+<details>
+<summary><b>🔑 Ver detalles de Acceso Simplificado</b></summary>
+<br />
+<blockquote>
+Autenticación fluida mediante hashes personales parametrizados para <b>Alumnos</b>, <b>Profesores</b> y <b>Dirección</b>.
+<br />
+<code>Seguridad: Verificada ✔️</code>
+</blockquote>
+</details>
+
+<details>
+<summary><b>📋 Ver detalles de Módulos de Control</b></summary>
+<br />
+<blockquote>
+Sincronización en tiempo real de tableros de actividades, anuncios institucionales y analíticas de asistencia grupal.
+<br />
+<code>Sincronización: En Tiempo Real ⚡</code>
+</blockquote>
+</details>
+
+<details>
+<summary><b>⏳ Ver detalles de Dashboard de Entregas</b></summary>
+<br />
+<blockquote>
+Seguimiento predictivo de asignaciones críticas con temporizadores visuales, rúbricas integradas y tabuladores de puntaje.
+<br />
+<code>Métricas: Dinámicas 📊</code>
+</blockquote>
+</details>
+
+<details>
+<summary><b>💬 Ver detalles de Feed de Actividad</b></summary>
+<br />
+<blockquote>
+Muro algorítmico que prioriza notificaciones urgentes, alertas de entrega inmediata y notas de retroalimentación.
+<br />
+<code>Notificaciones: Push 🔔</code>
+</blockquote>
+</details>
 
 <br />
 
@@ -77,27 +81,16 @@ Si buscas la estabilidad absoluta del sistema y las últimas capas de rendimient
 \$ git clone --branch v2.4.8 https://github.com
 ```
 
+<br />
+
 <div align="center">
-  <br />
-  <!-- BOTÓN EFECTO PULSO GLOW -->
-  <a href="https://github.com">
-    <img src="https://shields.io⚡_DESCARGAR_COMPILACIÓN-v2.4.8_ESTABLE-0078d4?style=for-the-badge&logo=github&logoColor=white" alt="Descargar TeamFix" />
-  </a>
-  <br />
-  <br />
   
-  <!-- GRÁFICO DE ACTIVIDAD SIMULADO / ANIMACIÓN DE CARGA -->
-  <img src="https://axiom.co" title="Análisis de actividad del repositorio" alt="Métricas del proyecto" />
+  ## 👉 [⚡ DESCARGAR COMPILACIÓN v2.4.8 ESTABLE ⚡](https://github.com)
+  
 </div>
 
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <sub><b>Telemetría de Compilación:</b> <code>build::v2.4.8-release</code> | <b>Sujeto a cambios:</b> Sí | <b>Distribución:</b> Código Abierto</sub>
-      </td>
-    </tr>
-  </table>
+  <sub><b>Telemetría de Compilación:</b> <code>build::v2.4.8-release</code> | <b>Sujeto a cambios:</b> Sí | <b>Distribución:</b> Código Abierto</sub>
 </div>
