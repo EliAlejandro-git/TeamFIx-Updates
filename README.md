@@ -22,4 +22,4 @@ Para disfrutar de las últimas mejoras, parches de seguridad y la versión más 
 👉 **[Descargar TeamFix v2.4.8](https://github.com/EliAlejandro-git/TeamFIx-V2.0/releases/tag/v2.4.8)**
 
 ---
-_Nota: Asegúrate de revisar las notas de la versión en el enlace de descarga para conocer los cambios implementados respecto a esta versión v2.0._
+_Nota: Esta version puede estar sujeta a cambios - 2.4.8_
