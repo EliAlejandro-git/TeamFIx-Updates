@@ -1,10 +1,8 @@
 <div align="center">
   <h1>🛠️ TeamFix — V2.0</h1>
   <p><strong>Plataforma Educativa Inteligente y Organizada</strong></p>
-  
   <!-- Badges nativos de texto plano con formato de bloque de código -->
   <code>Estado: No Soportado 🔴</code> &nbsp;&nbsp; <code>UI: Premium 💎</code> &nbsp;&nbsp; <code>Entorno: Modo Oscuro 🌙</code>
-  
   <br /><br />
   <p><strong>✨ Una experiencia educativa inmersiva, inteligente y organizada ✨</strong></p>
 </div>
@@ -18,7 +16,7 @@
 ## 🏫 ¿Qué es TeamFix Classroom?
 
 <p align="justify">
-<strong>TeamFix Classroom</strong> redefine la gestión académica digital mediante un de alta fidelidad visual. Inspirado en las mecánicas estructurales de <i>Google Classroom</i>, el entorno consolida los flujos de comunicación entre el cuerpo docente y el alumnado, garantizando una distribución de tareas libre de fricciones.
+  <strong>TeamFix Classroom</strong> redefine la gestión académica digital mediante un de alta fidelidad visual. Inspirado en las mecánicas estructurales de <i>Google Classroom</i>, el entorno consolida los flujos de comunicación entre el cuerpo docente y el alumnado, garantizando una distribución de tareas libre de fricciones.
 </p>
 
 <br />
@@ -27,43 +25,43 @@
 *Haz clic en cada sección para ver los detalles:*
 
 <details>
-<summary><b>🔑 Ver detalles de Acceso Simplificado</b></summary>
-<br />
-<blockquote>
-Autenticación fluida mediante hashes personales parametrizados para <b>Alumnos</b>, <b>Profesores</b> y <b>Dirección</b>.
-<br />
-<code>Seguridad: Verificada ✔️</code>
-</blockquote>
+  <summary><b>🔑 Ver detalles de Acceso Simplificado</b></summary>
+  <br />
+  <blockquote>
+    Autenticación fluida mediante hashes personales parametrizados para <b>Alumnos</b>, <b>Profesores</b> y <b>Dirección</b>.
+    <br />
+    <code>Seguridad: Verificada ✔️</code>
+  </blockquote>
 </details>
 
 <details>
-<summary><b>📋 Ver detalles de Módulos de Control</b></summary>
-<br />
-<blockquote>
-Sincronización en tiempo real de tableros de actividades, anuncios institucionales y analíticas de asistencia grupal.
-<br />
-<code>Sincronización: En Tiempo Real ⚡</code>
-</blockquote>
+  <summary><b>📋 Ver detalles de Módulos de Control</b></summary>
+  <br />
+  <blockquote>
+    Sincronización en tiempo real de tableros de actividades, anuncios institucionales y analíticas de asistencia grupal.
+    <br />
+    <code>Sincronización: En Tiempo Real ⚡</code>
+  </blockquote>
 </details>
 
 <details>
-<summary><b>⏳ Ver detalles de Dashboard de Entregas</b></summary>
-<br />
-<blockquote>
-Seguimiento predictivo de asignaciones críticas con temporizadores visuales, rúbricas integradas y tabuladores de puntaje.
-<br />
-<code>Métricas: Dinámicas 📊</code>
-</blockquote>
+  <summary><b>⏳ Ver detalles de Dashboard de Entregas</b></summary>
+  <br />
+  <blockquote>
+    Seguimiento predictivo de asignaciones críticas con temporizadores visuales, rúbricas integradas y tabuladores de puntaje.
+    <br />
+    <code>Métricas: Dinámicas 📊</code>
+  </blockquote>
 </details>
 
 <details>
-<summary><b>💬 Ver detalles de Feed de Actividad</b></summary>
-<br />
-<blockquote>
-Muro algorítmico que prioriza notificaciones urgentes, alertas de entrega inmediata y notas de retroalimentación.
-<br />
-<code>Notificaciones: Push 🔔</code>
-</blockquote>
+  <summary><b>💬 Ver detalles de Feed de Actividad</b></summary>
+  <br />
+  <blockquote>
+    Muro algorítmico que prioriza notificaciones urgentes, alertas de entrega inmediata y notas de retroalimentación.
+    <br />
+    <code>Notificaciones: Push 🔔</code>
+  </blockquote>
 </details>
 
 <br />
@@ -84,13 +82,23 @@ Si buscas la estabilidad absoluta del sistema y las últimas capas de rendimient
 <br />
 
 <div align="center">
-  
   ## 👉 [⚡ DESCARGAR COMPILACIÓN v2.4.8 ESTABLE ⚡](https://github.com/EliAlejandro-git/TeamFIx-Updates/releases/download/v2.4.8/Teamfix.real.v2.0.zip)
-  
 </div>
 
 ---
 
+## ⚖️ Términos de Uso y Aviso Legal
+
+> [!IMPORTANT]
+> ### Prohibición de Copia y Reproducción No Autorizada
+> Queda estrictamente **prohibida la copia, reproducción, distribución, modificación o redistribución comercial y no comercial** parcial o total de este código fuente, arquitectura de software, recursos gráficos o interfaces visuales sin la autorización expresa y por escrito de los titulares de los derechos de autor. 
+> 
+> Todo el contenido de este repositorio está protegido bajo las leyes internacionales de propiedad intelectual. El uso no autorizado de este material constituirá una violación de los derechos de autor y dará lugar a las acciones civiles o penales correspondientes.
+
+---
+
 <div align="center">
-  <sub><b>Telemetría de Compilación:</b> <code>build::v2.4.8-release</code> | <b>Sujeto a cambios:</b> Sí | <b>Distribución:</b> Código Abierto</sub>
+  <sub><b>Telemetría de Compilación:</b> <code>build::v2.4.8-release</code> | <b>Distribución:</b> Código Abierto (Sujeto a restricciones de copia)</sub>
+  <br />
+  <sub>© 2026 TeamFix. Todos los derechos reservados. Prohibida su copia.</sub>
 </div>
