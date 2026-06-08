@@ -93,12 +93,12 @@ Si buscas la estabilidad absoluta del sistema y las últimas capas de rendimient
 > ### Prohibición Estricta de Copia, Fork y Descarga No Autorizada
 > Queda estrictamente **prohibida la descarga, clonación, bifurcación (fork) no autorizada, copia o distribución** parcial o total de este código fuente, arquitectura de software o interfaces visuales sin el consentimiento expreso y por escrito del autor. 
 > 
-> Todo el contenido de este repositorio es propiedad exclusiva de **Elí Alejandro Gómez Rodríguez** y está protegido bajo leyes internacionales de propiedad intelectual. El incumplimiento de estas condiciones constituirá un delito de infracción de derechos de autor.
+> Todo el contenido de este repositorio es propiedad exclusiva de **Elí Alejandro Gómez Rodríguez** y está protegido bajo leyes internacionales de propiedad intelectual. Si deseas solicitar permisos especiales de uso, debes enviar un correo electrónico a: **eliperla2gomez@gmail.com**.
 
 ---
 
 <div align="center">
   <sub><b>Telemetría de Compilación:</b> <code>build::v2.4.8-release</code> | <b>Distribución:</b> Privada / Propietaria</sub>
   <br />
-  <sub>© 2026 Elí Alejandro Gómez Rodríguez. Todos los derechos reservados.</sub>
+  <sub>© 2026 Elí Alejandro Gómez Rodríguez. Todos los derechos reservados. Contacto: eliperla2gomez@gmail.com</sub>
 </div>
