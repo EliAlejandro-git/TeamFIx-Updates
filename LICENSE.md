@@ -22,14 +22,15 @@ Queda estrictamente **PROHIBIDO** sin la autorización previa, expresa y por esc
 
 ---
 
-## ⚖️ Acciones Legales y Cumplimiento
+## ⚖️ Acciones Legales y Solicitud de Permisos
 
 Cualquier uso, descarga o bifurcación no autorizada de este material constituirá una infracción directa de las **leyes internacionales de propiedad intelectual y de derechos de autor**, dando lugar a las acciones civiles, administrativas y penales que correspondan según la legislación aplicable.
 
-Si necesitas una autorización para uso institucional, comercial o licencias especiales, debes **contactar directamente con el titular de los derechos**.
+Si necesitas una autorización para uso institucional, comercial o licencias especiales, debes solicitar el permiso explícito enviando un correo electrónico a:
+📬 **eliperla2gomez@gmail.com**
 
 ---
 
 <div align="center">
-  <sub><b>Tipo de Licencia:</b> Propietaria Cerrada | <b>Titular:</b> Elí Alejandro Gómez Rodríguez</sub>
+  <sub><b>Tipo de Licencia:</b> Propietaria Cerrada | <b>Contacto:</b> eliperla2gomez@gmail.com</sub>
 </div>
