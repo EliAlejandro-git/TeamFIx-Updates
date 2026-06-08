@@ -75,14 +75,14 @@
 Si buscas la estabilidad absoluta del sistema y las últimas capas de rendimiento optimizadas, utiliza el instalador oficial empaquetado:
 
 ```bash
-# Inicializar descarga de la compilación estable
+# Inicializar descarga de la compilación estable del autor
 \$ git clone --branch v2.4.8 https://github.com
 ```
 
 <br />
 
 <div align="center">
-  <h2>👉 <a href="https://github.com/EliAlejandro-git/TeamFIx-Updates/releases/download/v2.4.8/Teamfix.real.v2.0.zip">⚡ DESCARGAR COMPILACIÓN v2.4.8 ESTABLE ⚡</a></h2>
+  <h2>👉 <a href="https://github.com">⚡ DESCARGAR COMPILACIÓN v2.4.8 ESTABLE ⚡</a></h2>
 </div>
 
 ---
@@ -90,15 +90,15 @@ Si buscas la estabilidad absoluta del sistema y las últimas capas de rendimient
 ## ⚖️ Términos de Uso y Aviso Legal
 
 > [!IMPORTANT]
-> ### Prohibición de Copia y Reproducción No Autorizada
-> Queda estrictamente **prohibida la copia, reproducción, distribución, modificación o redistribución comercial y no comercial** parcial o total de este código fuente, arquitectura de software, recursos gráficos o interfaces visuales sin la autorización expresa y por escrito de los titulares de los derechos de autor. 
+> ### Prohibición Estricta de Copia, Fork y Descarga No Autorizada
+> Queda estrictamente **prohibida la descarga, clonación, bifurcación (fork) no autorizada, copia o distribución** parcial o total de este código fuente, arquitectura de software o interfaces visuales sin el consentimiento expreso y por escrito del autor. 
 > 
-> Todo el contenido de este repositorio está protegido bajo las leyes internacionales de propiedad intelectual. El uso no autorizado de este material constituirá una violación de los derechos de autor y dará lugar a las acciones civiles o penales correspondientes.
+> Todo el contenido de este repositorio es propiedad exclusiva de **Elí Alejandro Gómez Rodríguez** y está protegido bajo leyes internacionales de propiedad intelectual. El incumplimiento de estas condiciones constituirá un delito de infracción de derechos de autor.
 
 ---
 
 <div align="center">
-  <sub><b>Telemetría de Compilación:</b> <code>build::v2.4.8-release</code> | <b>Distribución:</b> Código Abierto (Sujeto a restricciones de copia)</sub>
+  <sub><b>Telemetría de Compilación:</b> <code>build::v2.4.8-release</code> | <b>Distribución:</b> Privada / Propietaria</sub>
   <br />
-  <sub>© 2026 TeamFix. Todos los derechos reservados. Prohibida su copia.</sub>
+  <sub>© 2026 Elí Alejandro Gómez Rodríguez. Todos los derechos reservados.</sub>
 </div>
